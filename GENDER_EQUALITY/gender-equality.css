@@ -1,0 +1,730 @@
+.gender-equality-container {
+  min-height: 100vh;
+}
+.gender-equality-gender-equality {
+  width: 100%;
+  height: 3373px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.gender-equality-header {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 1919px;
+  margin: auto;
+  display: flex;
+  padding: 75px 189px 0 189px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+  background-color: rgba(232, 79, 65, 1);
+}
+.gender-equality-navbar {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 16px;
+}
+.gender-equality-frame8 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 342px;
+}
+.gender-equality-image1 {
+  width: 54px;
+  height: 55px;
+  position: relative;
+  border-color: transparent;
+  margin-right: 58px;
+}
+.gender-equality-image3 {
+  width: 54px;
+  height: 55px;
+  position: relative;
+  border-color: transparent;
+}
+.gender-equality-frame {
+  width: 393px;
+  height: 20px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.gender-equality-text {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Nunito;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.gender-equality-text02 {
+  left: 111px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Nunito;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.gender-equality-text04 {
+  left: 223px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Nunito;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.gender-equality-text06 {
+  left: 332px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Nunito;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.gender-equality-heading {
+  display: flex;
+  padding: 44px 15px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.gender-equality-frame9 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 0px;
+  flex-direction: column;
+  justify-content: center;
+}
+.gender-equality-text08 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 40px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Nunito;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 11px;
+  text-decoration: none;
+}
+.gender-equality-text09 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 50px;
+  align-self: auto;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Nunito;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 11px;
+  text-decoration: none;
+}
+.gender-equality-text11 {
+  color: rgba(255, 255, 255, 1);
+  width: 370px;
+  height: auto;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Nunito;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.gender-equality-frame10 {
+  display: flex;
+  padding: 10px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+}
+.gender-equality-rectangle10 {
+  width: 470px;
+  height: 470px;
+  position: relative;
+  border-color: transparent;
+}
+.gender-equality-content {
+  top: 720px;
+  left: 0px;
+  right: 0px;
+  width: 914px;
+  margin: auto;
+  display: flex;
+  padding: 115px 81px;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+}
+.gender-equality-rectangle9 {
+  width: 250px;
+  height: 360px;
+  position: relative;
+  border-color: transparent;
+  margin-right: 130px;
+  border-radius: 10px;
+}
+.gender-equality-frame11 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.gender-equality-text16 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 40px;
+  align-self: auto;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Nunito;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 17px;
+  text-decoration: none;
+}
+.gender-equality-text18 {
+  color: rgba(0, 0, 0, 1);
+  width: 372px;
+  height: auto;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.gender-equality-content2 {
+  top: 2175px;
+  left: 0px;
+  right: 0px;
+  width: 920px;
+  margin: auto;
+  display: flex;
+  padding: 79px 146px;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.gender-equality-text20 {
+  color: rgba(0, 0, 0, 1);
+  width: 628px;
+  height: auto;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Nunito;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 38px;
+  text-decoration: none;
+}
+.gender-equality-b-u-t-t-o-n {
+  display: flex;
+  position: relative;
+  transition: 0.3s;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+}
+.gender-equality-b-u-t-t-o-n:hover {
+  color: #0146ff;
+}
+.gender-equality-p-r-e-v-i-o-u-s {
+  width: 170px;
+  height: 42px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  transition: 0.3s;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 288px;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.gender-equality-p-r-e-v-i-o-u-s:hover {
+  background-color: #ffc34a;
+}
+.gender-equality-text27 {
+  top: 10px;
+  left: 49px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Nunito;
+  font-weight: 700;
+  line-height: 159.3999981880188%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.gender-equality-text27:hover {
+  color: #0018ff;
+}
+.gender-equality-n-e-x-t {
+  width: 170px;
+  height: 42px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  transition: 0.3s;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.gender-equality-n-e-x-t:hover {
+  background-color: #ffdd64;
+}
+.gender-equality-text29 {
+  top: 10px;
+  left: 67px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Nunito;
+  font-weight: 700;
+  line-height: 159.3999981880188%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.gender-equality-text29:hover {
+  color: #0020ff;
+}
+.gender-equality-adbanner {
+  top: 1373px;
+  left: 0px;
+  right: 0px;
+  width: 975px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+}
+.gender-equality-gray-elegant-beauty-brand-make-up-promotion-banner2 {
+  width: 358px;
+  height: 209px;
+  position: relative;
+  align-self: center;
+  border-color: transparent;
+  margin-bottom: 63px;
+}
+.gender-equality-n-u-a-d-s041 {
+  width: 975px;
+  height: 358px;
+  position: relative;
+  border-color: transparent;
+}
+.gender-equality-banner2 {
+  top: 2679px;
+  left: 0px;
+  right: 0px;
+  width: 1280px;
+  height: 354px;
+  margin: auto;
+  position: absolute;
+  border-color: transparent;
+}
+.gender-equality-f-o-o-t-e-r {
+  top: 3029px;
+  left: 0px;
+  right: 0px;
+  width: 1919px;
+  height: 344px;
+  margin: auto;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  justify-content: center;
+  background-color: rgba(30, 55, 119, 1);
+}
+.gender-equality-text31 {
+  top: 184px;
+  left: 0px;
+  color: rgba(141, 163, 204, 1);
+  right: 0px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 800;
+  line-height: 159.3999981880188%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.gender-equality-text33 {
+  top: 238px;
+  left: 0px;
+  color: rgba(141, 163, 204, 1);
+  right: 0px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 600;
+  line-height: 159.3999981880188%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.gender-equality-text35 {
+  top: 293px;
+  left: 0px;
+  color: rgba(141, 163, 204, 1);
+  right: 0px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 600;
+  line-height: 159.3999981880188%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.gender-equality-icons {
+  gap: var(--dl-space-space-oneandhalfunits);
+  width: 49px;
+  height: 49px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.gender-equality-instagram {
+  width: 49px;
+  height: 49px;
+}
+.gender-equality-facebook {
+  width: 49px;
+  height: 49px;
+}
+.gender-equality-twitter {
+  width: 49px;
+  height: 49px;
+}
+@media(max-width: 1200px) {
+  .gender-equality-header {
+    width: 1199px;
+  }
+  .gender-equality-text20 {
+    font-size: 18px;
+  }
+  .gender-equality-text29 {
+    color: #000000;
+  }
+  .gender-equality-banner2 {
+    width: 1199px;
+  }
+  .gender-equality-f-o-o-t-e-r {
+    width: 1199px;
+  }
+  .gender-equality-icons {
+    gap: var(--dl-space-space-oneandhalfunits);
+    left: 0px;
+    right: 0px;
+    margin: auto;
+  }
+  .gender-equality-instagram {
+    right: -12px;
+    bottom: -12px;
+    position: static;
+  }
+  .gender-equality-facebook {
+    right: -12px;
+    bottom: -12px;
+    position: static;
+  }
+  .gender-equality-twitter {
+    right: -12px;
+    bottom: -12px;
+    position: static;
+  }
+}
+@media(max-width: 991px) {
+  .gender-equality-header {
+    width: 990px;
+  }
+  .gender-equality-text18 {
+    font-size: 18px;
+  }
+  .gender-equality-text20 {
+    font-size: 20px;
+  }
+  .gender-equality-f-o-o-t-e-r {
+    width: 990px;
+  }
+  .gender-equality-instagram {
+    top: 0px;
+    left: 0px;
+    position: static;
+  }
+  .gender-equality-facebook {
+    top: 0px;
+    left: 0px;
+    position: static;
+  }
+  .gender-equality-twitter {
+    top: 0px;
+    left: 0px;
+    position: static;
+  }
+}
+@media(max-width: 767px) {
+  .gender-equality-gender-equality {
+    height: 3744px;
+  }
+  .gender-equality-header {
+    width: 766px;
+    height: 802px;
+    padding-left: var(--dl-space-space-sixunits);
+    padding-right: var(--dl-space-space-sixunits);
+  }
+  .gender-equality-navbar {
+    width: 100%;
+    height: 129px;
+  }
+  .gender-equality-frame8 {
+    margin-right: var(--dl-space-space-twounits);
+  }
+  .gender-equality-image1 {
+    margin-right: var(--dl-space-space-unit);
+  }
+  .gender-equality-heading {
+    flex-direction: column;
+  }
+  .gender-equality-rectangle10 {
+    width: var(--dl-size-size-xxlarge);
+    height: var(--dl-size-size-xxlarge);
+  }
+  .gender-equality-content {
+    gap: var(--dl-space-space-fiveunits);
+    top: 800px;
+    width: 766px;
+    align-items: center;
+    flex-direction: column;
+  }
+  .gender-equality-content2 {
+    top: 2400px;
+    width: 766px;
+    align-items: flex-start;
+    padding-left: var(--dl-space-space-sixunits);
+    padding-right: var(--dl-space-space-sixunits);
+    justify-content: flex-start;
+  }
+  .gender-equality-p-r-e-v-i-o-u-s {
+    height: 50px;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .gender-equality-n-e-x-t {
+    height: 50px;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .gender-equality-adbanner {
+    top: 1750px;
+    width: 766px;
+  }
+  .gender-equality-gray-elegant-beauty-brand-make-up-promotion-banner2 {
+    width: 458px;
+  }
+  .gender-equality-n-u-a-d-s041 {
+    width: 100%;
+  }
+  .gender-equality-banner2 {
+    top: 2950px;
+    width: 766px;
+    height: 257px;
+  }
+  .gender-equality-f-o-o-t-e-r {
+    top: 3230px;
+    width: 766px;
+  }
+}
+@media(max-width: 479px) {
+  .gender-equality-gender-equality {
+    height: 3784px;
+  }
+  .gender-equality-header {
+    width: 478px;
+    height: 859px;
+  }
+  .gender-equality-navbar {
+    width: 334px;
+    height: 152px;
+    flex-direction: column;
+  }
+  .gender-equality-frame8 {
+    margin-bottom: var(--dl-space-space-twounits);
+    flex-direction: row;
+  }
+  .gender-equality-frame {
+    flex-direction: column;
+  }
+  .gender-equality-content {
+    width: 478px;
+  }
+  .gender-equality-content2 {
+    width: 478px;
+    height: 760px;
+  }
+  .gender-equality-text20 {
+    width: 329px;
+  }
+  .gender-equality-b-u-t-t-o-n {
+    gap: 4;
+    flex: 1;
+    width: 147px;
+    align-self: center;
+    text-align: center;
+    align-items: stretch;
+    line-height: 2;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .gender-equality-p-r-e-v-i-o-u-s {
+    padding: var(--dl-space-space-unit);
+  }
+  .gender-equality-adbanner {
+    width: 478px;
+  }
+  .gender-equality-n-u-a-d-s041 {
+    height: 183px;
+  }
+  .gender-equality-banner2 {
+    top: 3200px;
+    width: 478px;
+    height: 171px;
+  }
+  .gender-equality-f-o-o-t-e-r {
+    top: 3450px;
+    width: 478px;
+  }
+}
